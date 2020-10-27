@@ -7,4 +7,6 @@
 5) GAME OVER and you loose :(
 6) To restart the game you can press any key. 
 
+Play and enjoy the GAME :)
+
 Happy Coding:)
